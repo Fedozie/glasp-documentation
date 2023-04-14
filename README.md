@@ -14,7 +14,7 @@
 * [Contact](#contact)
 
 ## General Information
-___
+
 
 ### What is Glasp?
 Glasp is a social web highlighter that allows its users to highlight and annotate quotes and ideas on web pages and also share them with others, without having to go back-and-forth between the web and a note-taking app.
@@ -24,4 +24,3 @@ Glasp stands for Greater Legacy Accumulated as Shared Proof. It aims to solve th
 By enabling collaboration and sharing of knowledge, Glasp aims to create a shared proof of knowledge that can be visualized and accessed by others especially like-minded people, which would lead to insightful and hought-provoking content to deepen your knowledge and understanding.
 
 ## Features
-___

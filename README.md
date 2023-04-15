@@ -1,5 +1,3 @@
-
-
 #
 <h1 align="center">Glasp Documentation</h1>
 
@@ -16,7 +14,6 @@
 * [Contact](#contact)
 
 ## General Information
-
 
 ### What is Glasp?
 According to the co-founder of Glasp, Kazuki Nakayashiki. Glasp stands for Greater Legacy Accumulated as Shared Proof. 
@@ -42,7 +39,6 @@ By enabling collaboration and sharing of knowledge, Glasp aims to create a share
 - Annotation: Users can add annotations to their highlights, providing additional context and information about the content.
 
 - Analytics: Glasp provides analytics on the user's activity, including number of highlights, views, and shares, allowing users to track their progress and measure their impact.
-
 
 ## Installation
 
@@ -87,5 +83,9 @@ If you want to delete the highlighted articles, you can delete by clicking ``Del
 ### Manifesto
 
 ### Alternatives and Competitors
+- **Evernote Web Clipper**: Evernote Web Clipper is a browser extension that allows you to save and annotate web pages, as well as clip and save specific sections of pages. It also offers features for organizing and sharing your notes and clippings, as well as integrations with other productivity tools.
+- **Pocket**: Pocket is a read-it-later tool that allows you to save and annotate web pages, as well as articles and other content from around the web. It also offers features for organizing and sharing your saved content, as well as integrations with popular apps and services like IFTTT.
+- **Hypothesis**: Hypothesis is an open-source web annotation tool that allows users to annotate and collaborate on web pages in real-time. It offers features for highlighting, commenting, and tagging content, as well as integrations with popular learning management systems and social media platforms.
+- **Diigo**: Diigo is a social bookmarking and annotation tool that allows you to highlight, tag, and bookmark web pages. It also offers features for organizing and sharing your bookmarks with others, as well as a browser extension that makes it easy to save and annotate pages as you browse.
 
 ## Contact

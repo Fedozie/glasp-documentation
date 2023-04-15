@@ -17,6 +17,7 @@
 
 ## General Information
 
+
 ### What is Glasp?
 According to the co-founder of Glasp, Kazuki Nakayashiki. Glasp stands for Greater Legacy Accumulated as Shared Proof. 
 

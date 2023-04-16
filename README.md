@@ -1,17 +1,26 @@
+
+<p align = "center">
+    <img src = "./images/glasp-icon.png">
+</p>
+
+
 #
 <h1 align="center">Glasp Documentation</h1>
 
 ## Table of Contents
 * [General Information](#general-information)
     * [What is Glasp?](#what-is-glasp)
+    * [Manifesto](#manifesto)
 * [Features](#features)
 * [Installation](#installation)
 * [Navigating Glasp](#navigating-glasp)
+* [Contexts in which Glasp can be used](#glasp-contexts)
 * [Glasp for Developers](#developer)
-* [About](#about)
-    * [Manifesto](#manifesto)
-    * [Alternatives and Competitors](#alternatives)
-* [Contact](#contact)
+* [Additional Information](#about)
+    * [Alternatives to Glasp](#alternatives)
+    * [License](#license)
+* [Stay In Touch](#stay-in-touch)
+* [Acknowledgments](#acknowledgments)
 
 ## General Information
 
@@ -23,6 +32,9 @@ It is a social web highlighter that allows its users to highlight and annotate q
 It aims to solve the problem of knowledge inaccessibility where knowledge, insights and experiences are kept in only personal spaces such as note-taking apps, where no one might be able to access. Glasp remedies this issue by providing a free browser extension that lets you quickly capture online content with coloured highlighting options, which are then automatically curated to your Glasp homepage. These highlights can then be tagged, searched for, linked to, and shared on a variety of other platforms, including Twitter, Teams, and Slack.
 
 By enabling collaboration and sharing of knowledge, Glasp aims to create a shared proof of knowledge that can be visualized and accessed by others especially like-minded people, which would lead to insightful and hought-provoking content to deepen your knowledge and understanding.
+
+### Manifesto
+
 
 ## Features
 
@@ -78,14 +90,22 @@ If you want to delete the highlighted articles, you can delete by clicking ``Del
 
 ## Glasp for Developers
 
-## About
+## Additional Information
 
-### Manifesto
+### Alternatives to Glasp
+- **Evernote Web Clipper**: [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=en) is a browser extension that allows you to save and annotate web pages, as well as clip and save specific sections of pages. It also offers features for organizing and sharing your notes and clippings, as well as integrations with other productivity tools.
 
-### Alternatives and Competitors
-- **Evernote Web Clipper**: Evernote Web Clipper is a browser extension that allows you to save and annotate web pages, as well as clip and save specific sections of pages. It also offers features for organizing and sharing your notes and clippings, as well as integrations with other productivity tools.
-- **Pocket**: Pocket is a read-it-later tool that allows you to save and annotate web pages, as well as articles and other content from around the web. It also offers features for organizing and sharing your saved content, as well as integrations with popular apps and services like IFTTT.
-- **Hypothesis**: Hypothesis is an open-source web annotation tool that allows users to annotate and collaborate on web pages in real-time. It offers features for highlighting, commenting, and tagging content, as well as integrations with popular learning management systems and social media platforms.
-- **Diigo**: Diigo is a social bookmarking and annotation tool that allows you to highlight, tag, and bookmark web pages. It also offers features for organizing and sharing your bookmarks with others, as well as a browser extension that makes it easy to save and annotate pages as you browse.
+- **Pocket**: [Pocket](https://getpocket.com/en/), previously known as Read-it-later, is atool that allows you to save and annotate web pages, as well as articles and other content from around the web. It also offers features for organizing and sharing your saved content, as well as integrations with popular apps and services like IFTTT.
 
-## Contact
+- **Hypothesis**: [Hypothesis](https://web.hypothes.is/) is an open-source web annotation tool that allows users to annotate and collaborate on web pages in real-time. It offers features for highlighting, commenting, and tagging content, as well as integrations with popular learning management systems and social media platforms.
+
+- **Diigo**: [Diigo](https://www.diigo.com/) is a social bookmarking and annotation tool that allows you to highlight, tag, and bookmark web pages. It also offers features for organizing and sharing your bookmarks with others, as well as a browser extension that makes it easy to save and annotate pages as you browse.
+
+### License
+
+## Stay In Touch
+
+- [Twitter](https://twitter.com/_Glasp)
+- [LinkedIn](https://www.linkedin.com/company/glasp/)
+- [Blog](https://blog.glasp.co/)
+- [Community](https://blog.glasp.co/community/)

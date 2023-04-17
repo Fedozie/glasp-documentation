@@ -8,20 +8,21 @@
 <h1 align="center">Glasp Documentation</h1>
 
 ## Table of Contents
-* [General Information](#general-information)
-    * [What is Glasp?](#what-is-glasp)
-    * [Manifesto](#manifesto)
-    * [Availibility](#availibilty)
-* [Features](#features)
-* [Installation](#installation)
-* [Navigating Glasp](#navigating-glasp)
-* [Contexts in which Glasp can be used](#glasp-contexts)
-* [Glasp for Developers](#developer)
-* [Additional Information](#about)
-    * [Alternatives to Glasp](#alternatives)
-    * [License](#license)
-* [Stay In Touch](#stay-in-touch)
-* [Acknowledgments](#acknowledgments)
+- [General Information](#general-information)
+    - [What is Glasp?](#what-is-glasp)
+    - [Manifesto](#manifesto)
+    - [Availibility](#availibilty)
+- [Features](#features)
+- [Installation](#installation)
+- [How to use Glasp](#how-to-use-glasp)
+- [Navigating Glasp](#navigating-glasp)
+- [Contexts in which Glasp can be used](#glasp-contexts)
+- [Glasp for Developers](#developer)
+- [Additional Information](#about)
+    - [Alternatives to Glasp](#alternatives)
+    - [License](#license)
+- [Stay In Touch](#stay-in-touch)
+- [Acknowledgments](#acknowledgments)
 
 ## General Information
 
@@ -51,7 +52,7 @@ It is supported on the following browsers: Chrome, Brave, Safari, Microsoft Edge
 
 - Sharing on Multiple Media Platforms and Note-taking Apps: The highlights can be shared on a variety of platforms, including Twitter, Teams, and Slack, making it easy to collaborate and share information with others.
 
-- Exporting highlights in different formats and as images: Glasp allows its users to export their highlights in formats like TXT, CSV, HTML and MD. You can also export your highlights as images too in either a square or landscape orientation.
+- Exporting highlights in different formats and as images: Glasp allows its users to export their highlights in formats like TXT, CSV, HTML and MD. You can also export your highlights as images too in either a square or landscape orientation. The images are referred to as Quoteshots.
 
 - Collaboration: Glasp allows for collaboration between users, with the ability to invite others to view and contribute to highlights and collections.
 
@@ -92,8 +93,24 @@ If you copy your profile link (ex: glasp.co/#kei), you can share your `My Highli
 
 If you want to delete the highlighted articles, you can delete by clicking ``Delete Page`` accessible through three dots at the top right.
 
+## How to use Glasp
+1. After you have installed the Glasp extension in your browser. Click on the extensions icon in your browser and add **Glasp: Social Web Highlighter** to the extensions on the tool bar by clicking on the pin icon beside it.
+This action is going to activate the extenison.
+
+2. Open a webpage which contains the text you would like to highlight and annotate. Highlight the text and then a popup showing colours and some icons pops up. Pick your colour of choice.
+
+3. After highlighting, click on the highlighted text to bring up the popup again. To annotate, click on the pen-in-hand icon and this action opens the Glasp extension sidebar with the option to add a note. With that, you can go on to add your note. You can also go on to leave a comment about the page.
+
+4. To create a Quoteshot, click on the quote icon on the popup. Clicking on the icon brings up another popup which previews the quoteshot with customizable features. You can toggle the backgrounds, choose between **Square** or **Landscape** for orientation, click on the download icon to download as an image and you can click on the facebook or twitter icon to share on those platforms.
+
+5. To add a tag to the highlighted text, click on the tag icon on the popup or on the sidebar. After, which you can input any tags of you choice. Tags are usually a word which would help with searching through for quotes with similar scope.
+
+6. You can toggle the visibility of the sidebar by clicking on the glasp icon on the toolbar and you can choose to enable or disable glasp for use on a particular domain by clicking on the toggle at the bottom of the sidebar.
+
+
 ## Navigating Glasp
 
+## Contexts in which Glasp can be used
 
 ## Glasp for Developers
 

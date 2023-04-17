@@ -11,6 +11,7 @@
 * [General Information](#general-information)
     * [What is Glasp?](#what-is-glasp)
     * [Manifesto](#manifesto)
+    * [Availibility](#availibilty)
 * [Features](#features)
 * [Installation](#installation)
 * [Navigating Glasp](#navigating-glasp)
@@ -25,7 +26,7 @@
 ## General Information
 
 ### What is Glasp?
-According to the co-founder of Glasp, Kazuki Nakayashiki. Glasp stands for Greater Legacy Accumulated as Shared Proof. 
+Glasp stands for [Greater Legacy Accumulated as Shared Proof](https://bit.ly/interview-with-glasp-cofounder).
 
 It is a social web highlighter that allows its users to highlight and annotate quotes and ideas on web pages and also share them with others, without having to go back-and-forth between the web and a note-taking app.
 
@@ -35,6 +36,10 @@ By enabling collaboration and sharing of knowledge, Glasp aims to create a share
 
 ### Manifesto
 
+### Availibility
+Glasp is available on [Chrome Web Store](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) and the [App Store](https://apps.apple.com/ng/app/glasp-social-web-highlighter/id1605690124?mt=12) as a desktop extension. 
+
+It is supported on the following browsers: Chrome, Brave, Safari, Microsoft Edge and Vivaldi. Glasp is a browser extension so it wasn't designed to be used on mobile devices, however you can access your profile, feed, and export highlights and notes when using a mobile browser.
 
 ## Features
 
@@ -45,6 +50,8 @@ By enabling collaboration and sharing of knowledge, Glasp aims to create a share
 - Tagging and Searching: Users can tag their highlights and search for them by keywords, making it easy to find and retrieve information.
 
 - Sharing on Multiple Media Platforms and Note-taking Apps: The highlights can be shared on a variety of platforms, including Twitter, Teams, and Slack, making it easy to collaborate and share information with others.
+
+- Exporting highlights in different formats and as images: Glasp allows its users to export their highlights in formats like TXT, CSV, HTML and MD. You can also export your highlights as images too in either a square or landscape orientation.
 
 - Collaboration: Glasp allows for collaboration between users, with the ability to invite others to view and contribute to highlights and collections.
 

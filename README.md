@@ -95,22 +95,38 @@ If you want to delete the highlighted articles, you can delete them by clicking 
 
 ## How to use Glasp
 1. After you have installed the Glasp extension in your browser. Click on the extension's icon in your browser and add **Glasp: Social Web Highlighter** to the extensions on the toolbar by clicking on the pin icon beside it.
+![How to use Glasp -Step I](./images/how-to-1.jpeg)
 This action is going to activate the extension.
 
 2. Open a webpage which contains the text you would like to highlight and annotate. Highlight the text and then a popup displaying colours and some icons pops up. Pick a colour of your choice to highlight the text.
+![How to use Glasp - Step II](./images/how-to-2.jpeg)
 
 3. After highlighting, click on the highlighted text to bring up the popup again. To annotate, click on the pen-in-hand icon and this action opens the Glasp extension sidebar with the option to add a note. With that, you can go on to add your note. You can also go on to leave a comment about the page.
+![How to use Glasp - Step III](./images/how-to-3.jpeg)
 
-4. To create a Quoteshot, click on the quote icon on the popup. Clicking on the icon brings up another popup which previews the quoteshot with customizable features. You can toggle the backgrounds, choose between **Square** or **Landscape** for orientation, click on the download icon to download as an image and you can click on the Facebook or Twitter icon to share on those platforms.
+4. To create a Quoteshot, click on the quote icon on the popup. Clicking on the icon brings up another popup which previews the quoteshot with customizable features. You can toggle the backgrounds, choose between **Square** or **Landscape** for orientation, click on the **download** icon to download as an image and you can click on the Facebook or Twitter icon to share on those platforms.
+![How to use Glasp - Step IV](./images/how-to-4.jpeg)
 
 5. To add a tag to the highlighted text, click on the tag icon on the popup or on the sidebar. After, you can input any tags of your choice. Tags are usually a word which would help with searching through for quotes with similar scope.
+![How to use Glasp - Step V](./images/how-to-5.jpeg)
 
 6. You can toggle the visibility of the sidebar by clicking on the glasp icon on the toolbar and you can choose to enable or disable glasp for use on a particular domain by clicking on the toggle at the bottom of the sidebar.
+![How to use Glasp - Step VI](./images/how-to-6.jpeg)
 
-
-## Navigating Glasp
+## Navigating Glasp Website
 
 ## Contexts in which Glasp can be used
+1. Research and Education: Glasp can be used by researchers, educators, and students to highlight and annotate web pages for research projects, online courses, or collaborative learning. With Glasp, users can easily highlight and organize key passages, take notes, and share their insights with others in real time. This can help to facilitate collaboration, spark discussion, and deepen understanding among participants.
+
+2. Content Creation and Publishing: Glasp can be used by content creators, writers, and publishers to enhance their web content and engage with their readers. With Glasp, authors can add interactive annotations, links, and multimedia to their articles, providing a more immersive and engaging experience for readers. This can help to attract and retain readers, foster community, and build loyalty among audiences.
+
+3. Social Media and News: Glasp can be used by social media users and news consumers to engage with online content and share their opinions and perspectives. With Glasp, users can highlight and annotate news articles, social media posts, and other web content, providing a more nuanced and informed perspective on current events. This can help to promote critical thinking, civil discourse, and social engagement among users.
+
+4. Web Development: Glasp can be used by web developers to annotate code snippets or interactions online making it easier for developers to document and share their work with colleagues.
+
+5. Design: Glasp can be used to annotate web design elements, making it easier for designers to communicate their ideas with clients and colleagues.
+
+6. Personal Productivity: Glasp can be used to highlight and annotate articles or other web content that is relevant to personal goals or interests, making it easier to reference and revisit later.
 
 ## Glasp for Developers
 
@@ -133,3 +149,5 @@ This action is going to activate the extension.
 - [LinkedIn](https://www.linkedin.com/company/glasp/)
 - [Blog](https://blog.glasp.co/)
 - [Community](https://blog.glasp.co/community/)
+
+## Acknowledgments

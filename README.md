@@ -63,39 +63,50 @@ It is supported on the following browsers: Chrome, Brave, Safari, Microsoft Edge
 ## Installation
 
 #### **Step I - Signing up on Glasp**
-In your browser's search tab, type in [**glasp.co**](glasp.co) and you will be automatically directed to the page of Glasp. 
+In your browser's search tab, type in [**glasp.co**](glasp.co) and you will be automatically directed to the home page of Glasp's website. Upon reaching the Glasp page, click on the **Sign Up** button and continue using your Google Account.
 
-Upon reaching the Glasp page, click on the **Sign Up** button and continue using your Google Account.
+![Installing Glasp - Step Ia](./images/installation-s1-a.jpeg)
 
 After finalizing the account registration, you will be redirected to the web store; Chrome Web Store if you are on Google Chrome or Brave or Safari Web Store if you are on Safari.
+
+![Installing Glasp - Step Ib](./images/installation-s1-b.jpeg)
 
 #### **Step II -  Installing the Glasp extension to your browser**
 After being redirected to Glasp's page on your browser's web store, click on the button to add it to your browser and install it.
 
+![Installing Glasp - Step IIa](./images/installation-s2-a.jpeg)
+
 After you install the extension, make sure you pin it on the toolbar. It makes it easier to open the Glasp on the sidebar. If you're asked to sign in to Glasp on the sidebar, please do it.
+
+![Installing Glasp - Step IIb](./images/installation-s2-b.jpeg)
 
 #### **Step III - Go to the Homepage on Glasp**
 Once you've installed the Glasp extension and signed in to Glasp, please go to the Home page by clicking the Home icon on the sidebar.
 
+![Installing Glasp - Step IIIa](./images/installation-s3-a.jpeg)
+
 On the Home page, you're asked to choose your favourite topics. Choosing your topics could be a leap step as this will help you identify the articles in line with your interests. And you can change your favourite topics anytime.
 
-#### **Step IV - Open and highlight an article**
-Open any article you want and start highlighting sentences you resonate with. When you select a sentence, you can see a popup showing up, so please click any colour you want.
+![Installing Glasp - Step IIIb](./images/installation-s3-b.jpeg)
 
-If you want to remove highlights, you can click the close button on the popup that shows up when you click the highlighted sentence.
-
-#### **Step V - Go to My Highlights page**
+#### **Step IV - Go to My Highlights page**
 Please open the Glasp page. You’re on the Home feed now, so go to the `My Highlights` page by clicking at the top left.
+
+![Installing Glasp - Step IVa](./images/installation-s4-a.jpeg)
 
 On your My Highlights page, you can see your highlights and articles. You can add a category tag by clicking the `Empty` on the Tag section.
 
-If you copy your profile link (ex: glasp.co/#kei), you can share your `My Highlights` page with anyone, and s/he can see your page.
+If you copy your profile link (ex: glasp.co/#kei), you can share your `My Highlights` page with anyone, and he or she can see your page.
 
-If you want to delete the highlighted articles, you can delete them by clicking ``Delete Page`` accessible through the three dots at the top right.
+![Installing Glasp - Step IVb-c](./images/installation-s4-b-c.jpeg)
+
+If you want to delete the highlighted articles, you can delete them by clicking `Delete Page` accessible through the three dots at the top right.
+
+![Installing Glasp - Step IVd](./images/installation-s4-d.jpeg)
 
 ## How to use Glasp
 1. After you have installed the Glasp extension in your browser. Click on the extension's icon in your browser and add **Glasp: Social Web Highlighter** to the extensions on the toolbar by clicking on the pin icon beside it.
-![How to use Glasp -Step I](./images/how-to-1.jpeg)
+![How to use Glasp - Step I](./images/how-to-1.jpeg)
 This action is going to activate the extension.
 
 2. Open a webpage which contains the text you would like to highlight and annotate. Highlight the text and then a popup displaying colours and some icons pops up. Pick a colour of your choice to highlight the text.

@@ -5,7 +5,7 @@
 
 
 #
-<h1 align="center">Glasp Documentation</h1>
+<h1 align="center">Everythign you need to know about Glasp</h1>
 
 ## Table of Contents
 - [General Information](#general-information)
@@ -39,7 +39,7 @@ Glasp is available on [Chrome Web Store](https://chrome.google.com/webstore/deta
 It is supported on the following browsers: Chrome, Brave, Safari, Microsoft Edge and Vivaldi. Glasp is a browser extension so it wasn't designed to be used on mobile devices, however, you can access your profile, feed, and export highlights and notes when using a mobile browser.
 
 ### Company
-Glasp was founded in 2021 and is currently headquartered in San Francisco, Carlifonia. It currently has a company size of between 2 to 10 employees.
+Glasp was founded on June 1, 2021 and is currently headquartered in San Francisco, Carlifonia. It currently has a company size of between 2 to 10 employees.
 
 ## Features
 
@@ -61,7 +61,7 @@ Glasp was founded in 2021 and is currently headquartered in San Francisco, Carli
 
 ## Installation
 
-#### **Step I - Signing up on Glasp**
+#### **1. Step I - Signing up on Glasp**
 In your browser's search tab, type in [**glasp.co**](glasp.co) and you will be automatically directed to the home page of Glasp's website. Upon reaching the Glasp page, click on the **Sign Up** button and continue using your Google Account.
 
 ![Installing Glasp - Step Ia](./images/installation-s1-a.jpeg)
@@ -70,7 +70,7 @@ After finalizing the account registration, you will be redirected to the web sto
 
 ![Installing Glasp - Step Ib](./images/installation-s1-b.jpeg)
 
-#### **Step II -  Installing the Glasp extension to your browser**
+#### **2. Step II -  Installing the Glasp extension to your browser**
 After being redirected to Glasp's page on your browser's web store, click on the button to add it to your browser and install it.
 
 ![Installing Glasp - Step IIa](./images/installation-s2-a.jpeg)
@@ -79,7 +79,7 @@ After you install the extension, make sure you pin it on the toolbar. It makes i
 
 ![Installing Glasp - Step IIb](./images/installation-s2-b.jpeg)
 
-#### **Step III - Go to the Homepage on Glasp**
+#### **3. Step III - Go to the Homepage on Glasp**
 Once you've installed the Glasp extension and signed in to Glasp, please go to the Home page by clicking the Home icon on the sidebar.
 
 ![Installing Glasp - Step IIIa](./images/installation-s3-a.jpeg)
@@ -88,7 +88,7 @@ On the Home page, you're asked to choose your favourite topics. Choosing your to
 
 ![Installing Glasp - Step IIIb](./images/installation-s3-b.jpeg)
 
-#### **Step IV - Go to My Highlights page**
+#### **4. Step IV - Go to My Highlights page**
 Please open the Glasp page. You’re on the Home feed now, so go to the `My Highlights` page by clicking at the top left.
 
 ![Installing Glasp - Step IVa](./images/installation-s4-a.jpeg)
@@ -124,6 +124,7 @@ This action is going to activate the extension.
 ![How to use Glasp - Step VI](./images/how-to-6.jpeg)
 
 ## Contexts in which Glasp can be used
+This refers to situations where the tool can be most effective or relevant.
 1. Research and Education: Glasp can be used by researchers, educators, and students to highlight and annotate web pages for research projects, online courses, or collaborative learning. With Glasp, users can easily highlight and organize key passages, take notes, and share their insights with others in real time. This can help to facilitate collaboration, spark discussion, and deepen understanding among participants.
 
 2. Content Creation and Publishing: Glasp can be used by content creators, writers, and publishers to enhance their web content and engage with their readers. With Glasp, authors can add interactive annotations, links, and multimedia to their articles, providing a more immersive and engaging experience for readers. This can help to attract and retain readers, foster community, and build loyalty among audiences.
@@ -135,6 +136,8 @@ This action is going to activate the extension.
 5. Design: Glasp can be used to annotate web design elements, making it easier for designers to communicate their ideas with clients and colleagues.
 
 6. Personal Productivity: Glasp can be used to highlight and annotate articles or other web content that is relevant to personal goals or interests, making it easier to reference and revisit later.
+
+Ultimately, the context in which Glasp can be used will depend on the user's goals and the specific situation in which they find themselves. By providing a simple and convenient way to highlight and share content, Glasp can be a valuable tool in a variety of contexts.
 
 ## Additional Information
 

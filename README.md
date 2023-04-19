@@ -10,17 +10,15 @@
 ## Table of Contents
 - [General Information](#general-information)
     - [What is Glasp?](#what-is-glasp)
-    - [Manifesto](#manifesto)
     - [Availibility](#availibilty)
+    - [Company](#company)
 - [Features](#features)
 - [Installation](#installation)
 - [How to use Glasp](#how-to-use-glasp)
-- [Navigating Glasp](#navigating-glasp)
 - [Contexts in which Glasp can be used](#contexts-in-which-glasp-can-be-used)
-- [Glasp for Developers](#glasp-for-developers)
 - [Additional Information](#additional-information)
     - [Alternatives to Glasp](#alternatives-to-glasp)
-    - [License](#license)
+    - [FAQ](#faq)
 - [Stay In Touch](#stay-in-touch)
 - [Acknowledgments](#acknowledgments)
 
@@ -35,12 +33,13 @@ It aims to solve the problem of knowledge inaccessibility where knowledge, insig
 
 By enabling collaboration and sharing of knowledge, Glasp aims to create a shared proof of knowledge that can be visualized and accessed by others, especially like-minded people, which would lead to insightful and thought-provoking content to deepen your knowledge and understanding.
 
-### Manifesto
-
 ### Availibility
 Glasp is available on [Chrome Web Store](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) and the [App Store](https://apps.apple.com/ng/app/glasp-social-web-highlighter/id1605690124?mt=12) as a desktop extension. 
 
 It is supported on the following browsers: Chrome, Brave, Safari, Microsoft Edge and Vivaldi. Glasp is a browser extension so it wasn't designed to be used on mobile devices, however, you can access your profile, feed, and export highlights and notes when using a mobile browser.
+
+### Company
+Glasp was founded in 2021 and is currently headquartered in San Francisco, Carlifonia. It currently has a company size of between 2 to 10 employees.
 
 ## Features
 
@@ -124,8 +123,6 @@ This action is going to activate the extension.
 6. You can toggle the visibility of the sidebar by clicking on the glasp icon on the toolbar and you can choose to enable or disable glasp for use on a particular domain by clicking on the toggle at the bottom of the sidebar.
 ![How to use Glasp - Step VI](./images/how-to-6.jpeg)
 
-## Navigating Glasp Website
-
 ## Contexts in which Glasp can be used
 1. Research and Education: Glasp can be used by researchers, educators, and students to highlight and annotate web pages for research projects, online courses, or collaborative learning. With Glasp, users can easily highlight and organize key passages, take notes, and share their insights with others in real time. This can help to facilitate collaboration, spark discussion, and deepen understanding among participants.
 
@@ -139,8 +136,6 @@ This action is going to activate the extension.
 
 6. Personal Productivity: Glasp can be used to highlight and annotate articles or other web content that is relevant to personal goals or interests, making it easier to reference and revisit later.
 
-## Glasp for Developers
-
 ## Additional Information
 
 ### Alternatives to Glasp
@@ -152,10 +147,29 @@ This action is going to activate the extension.
 
 - **Diigo**: [Diigo](https://www.diigo.com/) is a social bookmarking and annotation tool that allows you to highlight, tag, and bookmark web pages. It also offers features for organizing and sharing your bookmarks with others, as well as a browser extension that makes it easy to save and annotate pages as you browse.
 
-### License
+### FAQ
+Q: **Is Glasp the Social Web Highlighter free?**   
+A: Yes, Glasp is a free browser extension that can be downloaded and installed on most popular browsers, including Chrome, Firefox, and Safari.
+
+
+Q: **Is Glasp the Social Web Highlighter secure?**   
+A: Yes, Glasp is secure and does not collect any personal information from users. All highlighted text is stored locally on the user's browser and is not shared with any third-party servers.
+
+Q: **Is Glasp available on mobile devices?**   
+A: Glasp is currently only available as a browser extension for desktop and laptop computers. Is not available on mobile devices for now.
+
+Q: **Can I share my highlights on social media platforms other than Twitter, Facebook, and LinkedIn?**   
+A: Currently, Glasp only supports sharing highlights on Twitter, Facebook, and LinkedIn. However, the developers may add support for other social media platforms in future updates.
+
+Q: **Is Glasp available in languages other than English?**  
+A: Glasp is currently only available in English, but the developers may add support for other languages in future updates.
+
+Q: **Why can't I use Glasp on some websites?**  
+A: To avoid the accidental highlight sensitive pages, the Glasp extension is disabled at some domains such as Google Products (Docs, Gmail, Google Calendar, etc), Note-taking apps (Notion, etc), bank apps, etc.
 
 ## Stay In Touch
 
+- [Email](hi@glasp.co)
 - [Twitter](https://twitter.com/_Glasp)
 - [LinkedIn](https://www.linkedin.com/company/glasp/)
 - [Blog](https://blog.glasp.co/)

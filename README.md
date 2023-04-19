@@ -20,7 +20,7 @@
     - [Alternatives to Glasp](#alternatives-to-glasp)
     - [FAQ](#faq)
 - [Stay In Touch](#stay-in-touch)
-- [Acknowledgments](#acknowledgments)
+- [Resources](#resources)
 
 ## General Information
 
@@ -139,7 +139,7 @@ This action is going to activate the extension.
 ## Additional Information
 
 ### Alternatives to Glasp
-- **Evernote Web Clipper**: [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=en) is a browser extension that allows you to save and annotate web pages, as well as clip and save specific sections of pages. It also offers features for organizing and sharing your notes and clippings, as well as integrations with other productivity tools.
+- **Liner**: [Liner](https://getliner.com/en) is a popular digital tool that allows users to highlight text on web pages and save those highlights for later reference. With Liner, you can highlight text in multiple colors, add notes, and organize your highlights by tags or folders. It is available as a browser extension or a mobile app and works with various devices and platforms.
 
 - **Pocket**: [Pocket](https://getpocket.com/en/), previously known as Read-it-later, is a tool that allows you to save and annotate web pages, as well as articles and other content from around the web. It also offers features for organizing and sharing your saved content, as well as integrations with popular apps and services like IFTTT.
 
@@ -175,4 +175,10 @@ A: To avoid the accidental highlight sensitive pages, the Glasp extension is dis
 - [Blog](https://blog.glasp.co/)
 - [Community](https://blog.glasp.co/community/)
 
-## Acknowledgments
+## Resources
+
+- [Glasp](https://glasp.co)
+- [Glasp Blog](https://blog.glasp.co/)
+- [Glasp on Crunchbase](https://www.crunchbase.com/organization/glasp)
+- [Interview with co-founder of Glasp, Kazuki Nakayashiki by Anne-Laure Le Cunff for Ness Labs](https://nesslabs.com/glasp-featured-tool#:~:text=Kazuki%20Nakayashiki%20is%20the%20co,and%20a%20note-taking%20app.)
+- [10 Best Web Highlighters for Desktop](https://www.hongkiat.com/blog/best-desktop-web-highlighters/)

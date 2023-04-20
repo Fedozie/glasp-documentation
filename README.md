@@ -5,7 +5,7 @@
 
 
 #
-<h1 align="center">Everythign you need to know about Glasp</h1>
+<h1 align="center">Everything you need to know about Glasp</h1>
 
 ## Table of Contents
 - [General Information](#general-information)
@@ -15,6 +15,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [How to use Glasp](#how-to-use-glasp)
+- [How to get YouTube transcripts with Glasp](#how-to-get-youtube-transcripts-with-glasp)
 - [Contexts in which Glasp can be used](#contexts-in-which-glasp-can-be-used)
 - [Additional Information](#additional-information)
     - [Alternatives to Glasp](#alternatives-to-glasp)
@@ -56,6 +57,8 @@ Glasp was founded on June 1, 2021 and is currently headquartered in San Francisc
 - Collaboration: Glasp allows for collaboration between users, with the ability to invite others to view and contribute to highlights and collections.
 
 - Annotation: Users can add annotations to their highlights, providing additional context and information about the content.
+
+- YouTube Transcripts Generation: Users can use Glasp to generate transcript for youtbe videos.
 
 - Analytics: Glasp provides analytics on the user's activity, including the number of highlights, views, and shares, allowing users to track their progress and measure their impact.
 
@@ -122,6 +125,20 @@ This action is going to activate the extension.
 
 6. You can toggle the visibility of the sidebar by clicking on the glasp icon on the toolbar and you can choose to enable or disable glasp for use on a particular domain by clicking on the toggle at the bottom of the sidebar.
 ![How to use Glasp - Step VI](./images/how-to-6.jpeg)
+
+## How to get YouTube transcripts with Glasp
+
+1. Go to [YouTube's](https://www.youtube.com) page on your browser that is the browser with the Glasp extension installed.
+![Getting YouTube Transcripts with Glasp - 1](./images/yt-1.jpeg)
+
+2. Search for a video and click on any of your choice.
+![Getting YouTube Transcripts with Glasp - 2](./images/yt-2.jpeg)
+
+3. Click on the dropdown icon beside the Transcript and Summary to get a transcript of the video.
+![Getting YouTube Transcripts with Glasp - 3](./images/yt-3.jpeg)
+
+4. At the Transcript and Summary section, you can get a full AI summary on Chat GPT denoted by arrow labelled 1 in the image below, you can also jump to the transcript of current time of the video with second arrow and the third arrow points a copy icon which would copy the transcript as plain text.
+![Getting YouTube Transcripts with Glasp - 4](./images/yt-4.jpeg)
 
 ## Contexts in which Glasp can be used
 This refers to situations where the tool can be most effective or relevant.

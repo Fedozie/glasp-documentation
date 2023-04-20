@@ -5,7 +5,7 @@
 
 
 #
-<h1 align="center">Everything you need to know about Glasp</h1>
+<h1 align="center">A Comprehensive Guide on Glasp: The Social Web Highlighter</h1>
 
 ## Table of Contents
 - [General Information](#general-information)
@@ -14,7 +14,7 @@
     - [Company](#company)
 - [Features](#features)
 - [Installation](#installation)
-- [How to use Glasp](#how-to-use-glasp)
+- [How to use Glasp to highlight texts](#how-to-use-glasp-to-highlight-texts)
 - [How to get YouTube transcripts with Glasp](#how-to-get-youtube-transcripts-with-glasp)
 - [Contexts in which Glasp can be used](#contexts-in-which-glasp-can-be-used)
 - [Additional Information](#additional-information)
@@ -58,7 +58,7 @@ Glasp was founded on June 1, 2021 and is currently headquartered in San Francisc
 
 - Annotation: Users can add annotations to their highlights, providing additional context and information about the content.
 
-- YouTube Transcripts Generation: Users can use Glasp to generate transcript for youtbe videos.
+- YouTube Transcripts Generation: Users can use Glasp to generate transcripts for YouTube videos.
 
 - Analytics: Glasp provides analytics on the user's activity, including the number of highlights, views, and shares, allowing users to track their progress and measure their impact.
 
@@ -106,7 +106,7 @@ If you want to delete the highlighted articles, you can delete them by clicking 
 
 ![Installing Glasp - Step IVd](./images/installation-s4-d.jpeg)
 
-## How to use Glasp
+## How to use Glasp to highlight texts
 1. After you have installed the Glasp extension in your browser. Click on the extension's icon in your browser and add **Glasp: Social Web Highlighter** to the extensions on the toolbar by clicking on the pin icon beside it.
 ![How to use Glasp - Step I](./images/how-to-1.jpeg)
 This action is going to activate the extension.
@@ -128,10 +128,10 @@ This action is going to activate the extension.
 
 ## How to get YouTube transcripts with Glasp
 
-1. Go to [YouTube's](https://www.youtube.com) page on your browser that is the browser with the Glasp extension installed.
+1. Go to [YouTube's](https://www.youtube.com) page on your browser which is the browser with the Glasp extension installed.
 ![Getting YouTube Transcripts with Glasp - 1](./images/yt-1.jpeg)
 
-2. Search for a video and click on any of your choice.
+2. Search for a video and click on any one of your choice.
 ![Getting YouTube Transcripts with Glasp - 2](./images/yt-2.jpeg)
 
 3. Click on the dropdown icon beside the Transcript and Summary to get a transcript of the video.
@@ -159,7 +159,7 @@ Ultimately, the context in which Glasp can be used will depend on the user's goa
 ## Additional Information
 
 ### Alternatives to Glasp
-- **Liner**: [Liner](https://getliner.com/en) is a popular digital tool that allows users to highlight text on web pages and save those highlights for later reference. With Liner, you can highlight text in multiple colors, add notes, and organize your highlights by tags or folders. It is available as a browser extension or a mobile app and works with various devices and platforms.
+- **Liner**: [Liner](https://getliner.com/en) is a popular digital tool that allows users to highlight text on web pages and save those highlights for later reference. With Liner, you can highlight text in multiple colours, add notes, and organize your highlights by tags or folders. It is available as a browser extension or a mobile app and works with various devices and platforms.
 
 - **Pocket**: [Pocket](https://getpocket.com/en/), previously known as Read-it-later, is a tool that allows you to save and annotate web pages, as well as articles and other content from around the web. It also offers features for organizing and sharing your saved content, as well as integrations with popular apps and services like IFTTT.
 
@@ -185,7 +185,7 @@ Q: **Is Glasp available in languages other than English?**
 A: Glasp is currently only available in English, but the developers may add support for other languages in future updates.
 
 Q: **Why can't I use Glasp on some websites?**  
-A: To avoid the accidental highlight sensitive pages, the Glasp extension is disabled at some domains such as Google Products (Docs, Gmail, Google Calendar, etc), Note-taking apps (Notion, etc), bank apps, etc.
+A: To avoid the accidental highlight of sensitive pages, the Glasp extension is disabled at some domains such as Google Products (Docs, Gmail, Google Calendar, etc), Note-taking apps (Notion, etc), bank apps, etc.
 
 ## Stay In Touch
 

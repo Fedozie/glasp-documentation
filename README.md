@@ -23,9 +23,9 @@
 - [Stay In Touch](#stay-in-touch)
 - [Resources](#resources)
 
-## General Information
+## **General Information**
 
-### What is Glasp?
+### **What is Glasp?**
 Glasp stands for [Greater Legacy Accumulated as Shared Proof](https://bit.ly/interview-with-glasp-cofounder).
 
 It is a social web highlighter that allows its users to highlight and annotate quotes and ideas on web pages and also share them with others, without having to go back and forth between the web and a note-taking app.
@@ -34,15 +34,15 @@ It aims to solve the problem of knowledge inaccessibility where knowledge, insig
 
 By enabling collaboration and sharing of knowledge, Glasp aims to create a shared proof of knowledge that can be visualized and accessed by others, especially like-minded people, which would lead to insightful and thought-provoking content to deepen your knowledge and understanding.
 
-### Availibility
+### **Availibility**
 Glasp is available on [Chrome Web Store](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) and the [App Store](https://apps.apple.com/ng/app/glasp-social-web-highlighter/id1605690124?mt=12) as a desktop extension. 
 
 It is supported on the following browsers: Chrome, Brave, Safari, Microsoft Edge and Vivaldi. Glasp is a browser extension so it wasn't designed to be used on mobile devices, however, you can access your profile, feed, and export highlights and notes when using a mobile browser.
 
-### Company
+### **Company**
 Glasp was founded on June 1, 2021 and is currently headquartered in San Francisco, Carlifonia. It currently has a company size of between 2 to 10 employees.
 
-## Features
+## **Features**
 
 - Social Web Highlighter: Glasp is a browser extension-based tool that allows users to highlight and capture online content with coloured highlighting options.
 
@@ -62,10 +62,10 @@ Glasp was founded on June 1, 2021 and is currently headquartered in San Francisc
 
 - Analytics: Glasp provides analytics on the user's activity, including the number of highlights, views, and shares, allowing users to track their progress and measure their impact.
 
-## Installation
+## **Installation**
 
 #### **1. Step I - Signing up on Glasp**
-In your browser's search tab, type in [**glasp.co**](glasp.co) and you will be automatically directed to the home page of Glasp's website. Upon reaching the Glasp page, click on the **Sign Up** button and continue using your Google Account.
+In your browser's search tab, type in [**glasp.co**](glasp.co) and you will be automatically directed to the home page of the Glasp website. Upon reaching the Glasp page, click on the **Sign Up** button and continue using your Google Account.
 
 ![Installing Glasp - Step Ia](./images/installation-s1-a.jpeg)
 
@@ -74,7 +74,7 @@ After finalizing the account registration, you will be redirected to the web sto
 ![Installing Glasp - Step Ib](./images/installation-s1-b.jpeg)
 
 #### **2. Step II -  Installing the Glasp extension to your browser**
-After being redirected to Glasp's page on your browser's web store, click on the button to add it to your browser and install it.
+After being redirected to the Glasp page on your browser's web store, click on the button to add it to your browser and install it.
 
 ![Installing Glasp - Step IIa](./images/installation-s2-a.jpeg)
 
@@ -106,7 +106,7 @@ If you want to delete the highlighted articles, you can delete them by clicking 
 
 ![Installing Glasp - Step IVd](./images/installation-s4-d.jpeg)
 
-## How to use Glasp to highlight texts
+## **How to use Glasp to highlight texts**
 1. After you have installed the Glasp extension in your browser. Click on the extension's icon in your browser and add **Glasp: Social Web Highlighter** to the extensions on the toolbar by clicking on the pin icon beside it.
 ![How to use Glasp - Step I](./images/how-to-1.jpeg)
 This action is going to activate the extension.
@@ -126,7 +126,7 @@ This action is going to activate the extension.
 6. You can toggle the visibility of the sidebar by clicking on the glasp icon on the toolbar and you can choose to enable or disable glasp for use on a particular domain by clicking on the toggle at the bottom of the sidebar.
 ![How to use Glasp - Step VI](./images/how-to-6.jpeg)
 
-## How to get YouTube transcripts with Glasp
+## **How to get YouTube transcripts with Glasp**
 
 1. Go to [YouTube's](https://www.youtube.com) page on your browser which is the browser with the Glasp extension installed.
 ![Getting YouTube Transcripts with Glasp - 1](./images/yt-1.jpeg)
@@ -140,7 +140,7 @@ This action is going to activate the extension.
 4. At the Transcript and Summary section, you can get a full AI summary on Chat GPT denoted by arrow labelled 1 in the image below, you can also jump to the transcript of current time of the video with second arrow and the third arrow points a copy icon which would copy the transcript as plain text.
 ![Getting YouTube Transcripts with Glasp - 4](./images/yt-4.jpeg)
 
-## Contexts in which Glasp can be used
+## **Contexts in which Glasp can be used**
 This refers to situations where the tool can be most effective or relevant.
 1. Research and Education: Glasp can be used by researchers, educators, and students to highlight and annotate web pages for research projects, online courses, or collaborative learning. With Glasp, users can easily highlight and organize key passages, take notes, and share their insights with others in real time. This can help to facilitate collaboration, spark discussion, and deepen understanding among participants.
 
@@ -156,9 +156,9 @@ This refers to situations where the tool can be most effective or relevant.
 
 Ultimately, the context in which Glasp can be used will depend on the user's goals and the specific situation in which they find themselves. By providing a simple and convenient way to highlight and share content, Glasp can be a valuable tool in a variety of contexts.
 
-## Additional Information
+## **Additional Information**
 
-### Alternatives to Glasp
+### **Alternatives to Glasp**
 - **Liner**: [Liner](https://getliner.com/en) is a popular digital tool that allows users to highlight text on web pages and save those highlights for later reference. With Liner, you can highlight text in multiple colours, add notes, and organize your highlights by tags or folders. It is available as a browser extension or a mobile app and works with various devices and platforms.
 
 - **Pocket**: [Pocket](https://getpocket.com/en/), previously known as Read-it-later, is a tool that allows you to save and annotate web pages, as well as articles and other content from around the web. It also offers features for organizing and sharing your saved content, as well as integrations with popular apps and services like IFTTT.
@@ -167,7 +167,7 @@ Ultimately, the context in which Glasp can be used will depend on the user's goa
 
 - **Diigo**: [Diigo](https://www.diigo.com/) is a social bookmarking and annotation tool that allows you to highlight, tag, and bookmark web pages. It also offers features for organizing and sharing your bookmarks with others, as well as a browser extension that makes it easy to save and annotate pages as you browse.
 
-### FAQ
+### **FAQ**
 Q: **Is Glasp the Social Web Highlighter free?**   
 A: Yes, Glasp is a free browser extension that can be downloaded and installed on most popular browsers, including Chrome, Firefox, and Safari.
 
@@ -187,7 +187,7 @@ A: Glasp is currently only available in English, but the developers may add supp
 Q: **Why can't I use Glasp on some websites?**  
 A: To avoid the accidental highlight of sensitive pages, the Glasp extension is disabled at some domains such as Google Products (Docs, Gmail, Google Calendar, etc), Note-taking apps (Notion, etc), bank apps, etc.
 
-## Stay In Touch
+## **Stay In Touch**
 
 - [Email](hi@glasp.co)
 - [Twitter](https://twitter.com/_Glasp)
@@ -195,10 +195,12 @@ A: To avoid the accidental highlight of sensitive pages, the Glasp extension is 
 - [Blog](https://blog.glasp.co/)
 - [Community](https://blog.glasp.co/community/)
 
-## Resources
+## **Resources**
 
 - [Glasp](https://glasp.co)
-- [Glasp Blog](https://blog.glasp.co/)
+- [Glasp's Blog](https://blog.glasp.co/)
 - [Glasp on Crunchbase](https://www.crunchbase.com/organization/glasp)
+- [Glasp vs. Matter: Which Highlighter App is Better?](https://www.hongkiat.com/blog/glasp-vs-matter/
+)
 - [Interview with co-founder of Glasp, Kazuki Nakayashiki by Anne-Laure Le Cunff for Ness Labs](https://nesslabs.com/glasp-featured-tool#:~:text=Kazuki%20Nakayashiki%20is%20the%20co,and%20a%20note-taking%20app.)
 - [10 Best Web Highlighters for Desktop](https://www.hongkiat.com/blog/best-desktop-web-highlighters/)
